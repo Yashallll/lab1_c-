@@ -1,0 +1,21 @@
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.exe
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.deps.json
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.runtimeconfig.json
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.dll
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\bin\Debug\net6.0-windows\Лабораторная работа 1.pdb
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.csproj.AssemblyReference.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1_MarkupCompile.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1_MarkupCompile.lref
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.g.resources
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.dll
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\refint\Лабораторная работа 1.dll
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.pdb
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\Лабораторная работа 1.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 1\obj\Debug\net6.0-windows\ref\Лабораторная работа 1.dll
